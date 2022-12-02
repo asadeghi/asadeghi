@@ -1,4 +1,4 @@
 - [Home](/)
-- [blog](posts)
+- [Blog](posts)
 - [Twitter](https://twitter.com/arminsadeghi)
 - [GitHub](https://github.com/asadeghi)
