@@ -1,7 +1,6 @@
-name = "arminsadeghi.com"
+name = "arminsadeghi-com"
 main = "index.js"
 compatibility_date = "2022-12-02"
-usage_model = "unbound"
 node_compat = true
 env = {}
 
